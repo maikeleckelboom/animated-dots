@@ -1,0 +1,9 @@
+:root {
+  --font-family: 'Hind', sans-serif;
+  --font-family-secondary: "Montserrat", sans-serif;
+  --font-family-tertiary: "Muli", sans-serif;
+}
+
+#app {
+  font-family: var(--font-family);
+}
